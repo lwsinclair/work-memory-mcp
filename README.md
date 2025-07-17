@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/moontmsai-work-memory-mcp-badge.png)](https://mseep.ai/app/moontmsai-work-memory-mcp)
+
 # Work Memory MCP Server
 
 An integrated MCP (Model Context Protocol) server for managing work memories and sharing context between AI tools.
